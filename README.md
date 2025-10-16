@@ -10,9 +10,13 @@ This project follows **clean architecture principles**, **Material Design 3 guid
 
 ## 📱 Screenshots
 
-| Home | Cart | Checkout | Order Success |
-|:----:|:----:|:---------:|:--------------:|
-| ![Home](appscreens/HomeScreen.png) | ![Cart](appscreens/CartScreen.png) | ![Checkout](appscreens/CheckoutScreen.png) | ![Success](appscreens/StatusScreen.png) |
+## 📱 App Screens
+
+| Mode | 🏠 Home | 🛒 Cart | 💳 Checkout | ✅ Order Success |
+|:------|:------:|:------:|:------------:|:----------------:|
+| **🌞 Light Mode** | <img src="appscreens/lightmode/HomeScreen.png" width="220"/> | <img src="appscreens/lightmode/CartScreen.png" width="220"/> | <img src="appscreens/lightmode/CheckoutScreen.png" width="220"/> | <img src="appscreens/lightmode/StatusScreen.png" width="220"/> |
+| **🌙 Dark Mode** | <img src="appscreens/darkmode/HomeScreen.png" width="220"/> | <img src="appscreens/darkmode/CartScreen.png" width="220"/> | <img src="appscreens/darkmode/CheckoutScreen.png" width="220"/> | <img src="appscreens/darkmode/StatusScreen.png" width="220"/> |
+
 
 *(All UI screens follow Material 3 typography, spacing, elevation, and accessibility standards.)*
 
