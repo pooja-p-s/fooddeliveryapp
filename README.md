@@ -8,8 +8,6 @@ This project follows **clean architecture principles**, **Material Design 3 guid
 
 ---
 
-## 📱 Screenshots
-
 ## 📱 App Screens
 
 | Mode | 🏠 Home | 🛒 Cart | 💳 Checkout | ✅ Order Success |
@@ -153,11 +151,17 @@ git clone https://github.com/yourusername/OnlineFoodApp.git
 
 ---
 
-## 👩‍💻 Developer
 
-Pooja Pradeep Simla
-Software Engineer | Android & Backend Developer
-3+ years experience with Kotlin, .NET MAUI, C#, and Python
-Strong in MVVM, Jetpack Compose, Clean Architecture, and Material Design 3
-Passionate about building production-grade, scalable Android apps
+🧾 License
+MIT License
+Copyright (c) 2025 Pooja P S
+---
+
+## 👩‍💻 Author
+
+**Pooja Pradeep Simla**  
+Software Engineer | Android & Backend Developer  
+ *“Code with clarity. Design with empathy. Build for balance.”*
+
+---
 
