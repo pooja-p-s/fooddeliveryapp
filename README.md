@@ -12,7 +12,7 @@ This project follows **clean architecture principles**, **Material Design 3 guid
 
 | Home | Cart | Checkout | Order Success |
 |:----:|:----:|:---------:|:--------------:|
-| ![Home](appscreens/homescreen.png) | ![Cart](appscreens/cartscreen.png) | ![Checkout](appscreens/checkoutscreen.png) | ![Success](appscreens/statusscreen.png) |
+| ![Home](appscreens/HomeScreen.png) | ![Cart](appscreens/CartScreen.png) | ![Checkout](appscreens/CheckoutScreen.png) | ![Success](appscreens/StatusScreen.png) |
 
 *(All UI screens follow Material 3 typography, spacing, elevation, and accessibility standards.)*
 
