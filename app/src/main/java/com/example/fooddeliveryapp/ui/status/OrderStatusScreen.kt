@@ -35,9 +35,9 @@ fun OrderStatusScreen(navController: NavController) {
         delay(1000)
         status = listOf(
             OrderStatus.Success,
-            OrderStatus.PaymentFailed,
-            OrderStatus.RestaurantClosed,
-            OrderStatus.FoodUnavailable
+            OrderStatus.Success,
+            OrderStatus.Success,
+            OrderStatus.Success
         ).random()
     }
 

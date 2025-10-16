@@ -21,6 +21,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
@@ -69,7 +70,7 @@ fun FoodItemCard(
             Text(
                 text = food.name,
                 style = MaterialTheme.typography.titleMedium.copy(fontWeight = FontWeight.SemiBold),
-                color = MaterialTheme.colorScheme.onSurface,
+                color = Color.Black,
                 textAlign = TextAlign.Center,
                 modifier = Modifier.padding(horizontal = 12.dp)
             )
@@ -107,7 +108,7 @@ fun FoodItemCard(
                         QuantityButton(symbol = "-", onClick = onRemove)
                         Text(
                             text = count.toString(),
-                            color = MaterialTheme.colorScheme.onSurface,
+                            color = Color.Black,
                             style = MaterialTheme.typography.titleMedium.copy(fontWeight = FontWeight.Medium)
                         )
                         QuantityButton(symbol = "+", onClick = onAdd)

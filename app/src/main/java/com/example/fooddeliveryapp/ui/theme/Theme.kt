@@ -24,7 +24,7 @@ private val DarkColorScheme = darkColorScheme(
     background = BackgroundDark,
     onBackground = OnBackgroundDark,
     surface = SurfaceDark,
-    onSurface = BackgroundDark,
+    onSurface = BackgroundLight,
     outline = OutlineDark
 )
 
